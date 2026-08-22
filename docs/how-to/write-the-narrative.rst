@@ -12,12 +12,20 @@ Open the Narrative tab on a study with epochs and EMStudio builds a first draft 
 the structure: an *Introduction* chapter and one chapter per epoch, each with a live
 **matrix embed** of that epoch's units. You start from a skeleton, not a blank page.
 
+.. image:: ../_static/interface/05_narrative.jpg
+   :width: 100%
+   :alt: The Narrative tab — the auto-scaffolded narrative of Templu Mare with a live matrix embed
+
 Turn on writing
 ---------------
 
 The narrative opens read-only. Click the **pencil** (``✎``) in the toolbar to enter
 *write mode*: now each chapter shows its controls (move, delete, author) and the
 authoring affordances appear.
+
+.. image:: ../_static/how-to/narrative-write-mode.jpg
+   :width: 100%
+   :alt: The narrative in write mode — the palette with + Chapter and draggable views, chapter controls, and + prose
 
 - **Add a chapter** with **+ Chapter** in the left palette.
 - **Add prose** with **+ prose** under a chapter; type into the paragraph.

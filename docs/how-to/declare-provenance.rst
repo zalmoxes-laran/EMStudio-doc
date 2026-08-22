@@ -5,6 +5,10 @@ Declare provenance (DTC)
 tab — the documentation corpus shown as a directed graph in the graph window's *DTC
 mode*, beside the inspector.
 
+.. image:: ../_static/interface/03_dtc.jpg
+   :width: 100%
+   :alt: The DTC tab — the documentation/provenance corpus in DTC mode, and the Inspector
+
 The three acts
 --------------
 

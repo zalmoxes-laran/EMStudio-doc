@@ -5,6 +5,10 @@ Interpret in the Graph
 cockpit of interpretation, with the matrix, a table below, and the outliner and
 inspector to the side.
 
+.. image:: ../_static/interface/02_graph.jpg
+   :width: 100%
+   :alt: The Graph tab — the stratigraphic matrix of Templu Mare in epoch swimlanes
+
 Choose how you look
 -------------------
 

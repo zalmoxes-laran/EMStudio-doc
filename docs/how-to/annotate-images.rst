@@ -4,6 +4,10 @@ Annotate images
 *Goal: trace regions on a photograph or drawing and tie them to the record.* This is
 the **Annotator** tab — the annotator surface, a Viewer, and the Inspector.
 
+.. image:: ../_static/interface/06_annotator.jpg
+   :width: 100%
+   :alt: The Annotator tab — the annotator surface, a Viewer, and the Inspector
+
 Pick an image
 -------------
 

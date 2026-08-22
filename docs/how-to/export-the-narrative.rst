@@ -5,6 +5,10 @@ Export the narrative
 **Narrative** tab, the **Export** menu offers four formats, each a snapshot of the
 narrative at the moment you export:
 
+.. image:: ../_static/how-to/export-menu.jpg
+   :width: 100%
+   :alt: The narrative Export menu — HTML, Word, LaTeX + figures (.zip), Jupyter (live)
+
 - **HTML** — a single self-contained page (figures inline);
 - **Word** (``.docx``) — a document with the figures embedded as images;
 - **LaTeX** — a ``.zip`` containing a complete, compilable ``main.tex`` and a

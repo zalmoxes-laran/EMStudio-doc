@@ -4,6 +4,10 @@ Compare on the shelf
 *Goal: hold your study next to what is not yours.* This is the **Comparisons** tab —
 the Shelf, a Viewer, and the Inspector.
 
+.. image:: ../_static/interface/04_comparisons.jpg
+   :width: 100%
+   :alt: The Comparisons tab — the Shelf of comparanda, a Viewer, and the Inspector
+
 Build the shelf
 ---------------
 

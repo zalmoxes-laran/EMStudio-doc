@@ -4,6 +4,10 @@ Bring material in
 *Goal: get files — sources, images, 3D — into reach of your study.* This happens in
 the **Documentation** tab.
 
+.. image:: ../_static/interface/01_documentation.jpg
+   :width: 100%
+   :alt: The Documentation tab — filesystem Storage, object-store Storage, and the Inspector
+
 Browse the disk
 ---------------
 
